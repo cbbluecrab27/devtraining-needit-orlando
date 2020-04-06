@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the NeedIt List</h1>
+<p><strong>Use the NeedIt application to request services and goods from several departments.</strong></p>
+<ul class="steps-unordered"><li class="li step">Legal</li><li>Human Resources</li><li>Facilities</li></ul>
+<h2 class="title sectiontitle">NeedIt List Fields</h2>
+<ol class="steps-ordered"><li class="li step">For new NeedIt records, press New.</li><li class="li step">Number is a unique sequence number.</li><li class="li step">Priority for processing: 1- Critical, 2-High, 3- Moderate, 4 - Low, 5 - Planning.</li><li class="li step">State of the current Request: Requested, Awaiting Approval, Approved, Awaiting Feedback, Closed Complete, Withdrawn .</li><li class="li step">Assigned to is the current Employee resolving this Request.</li><li class="li step">Short description provides more information about the request.</li></ol>
+<div class="note tm-element"><span class="notetitle">Note: <strong>When creating NeedIt requests, the <em>When needed</em> date cannot be today or in the past.</strong></span></div>
+<h2 class="title sectiontitle">Need More Help?</h2>
+<p><strong>You can learn about <a title="form fields" href="https://docs.servicenow.com/bundle/orlando-platform-user-interface/page/use/using-forms/concept/c_FormFields.html#c_FormFields" target="_blank" rel="noopener">form fields</a> on the ServiceNow docs site.  Additionally a video is available:<iframe src="https://www.youtube.com/embed/DbRocGg6kbw" allowfullscreen=""></iframe> </strong></p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - User</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 14:01:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5daaf04ddb0010105ea1a9954b961922</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt List - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_5daaf04ddb0010105ea1a9954b961922</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 14:58:51</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=5daaf04ddb0010105ea1a9954b961922"/>
+</record_update>
