@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Update Short description">95db2122dbd010105ea1a9954b96191f</button>
+        <item_parameter display_value="Update Short description">2ce12daadb9010105ea1a9954b96195a</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 14:27:56</sys_created_on>
+        <sys_id>ce7da5b2db1010105ea1a9954b961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2ce12daadb9010105ea1a9954b96195a</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ce7da5b2db1010105ea1a9954b961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 14:27:56</sys_updated_on>
+        <ui_parameter display_value="Change Short description">ef8c2122dbd010105ea1a9954b961923</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
